@@ -4,6 +4,6 @@
     "express": "^5.2.1"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "backend/node server.js"
   }
 }
